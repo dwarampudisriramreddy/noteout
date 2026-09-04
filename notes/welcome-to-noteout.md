@@ -1,5 +1,5 @@
 ---
-{"id":"0c34d978-35a7-4f27-b768-72cdf16d4e92","title":"Welcome to noteout!","tags":["noteout","guide"],"created":"2026-09-04T10:03:22.380"}
+{"id":"0baf447a-4f8d-4c4e-9a05-0c758861a5e0","title":"Welcome to noteout!","tags":["noteout","guide"],"created":"2026-09-04T10:11:24.710"}
 ---
 # Welcome to noteout! 👋
 
