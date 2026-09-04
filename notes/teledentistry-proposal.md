@@ -1,5 +1,5 @@
 ---
-{"id":"61e3cddf-6147-49cb-9b7b-ccb8879e2c92","title":"teledentistry proposal","tags":[],"created":"2026-09-01T20:00:56.025"}
+{"id":"61e3cddf-6147-49cb-9b7b-ccb8879e2c92","title":"teledentistry proposal","tags":["note"],"created":"2026-09-01T20:00:56.025"}
 ---
 **Background**
 
