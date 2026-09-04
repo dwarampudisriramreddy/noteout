@@ -1,5 +1,5 @@
 ---
-{"id":"916424ff-8ed3-4f21-bfca-d6752a79e9b1","title":"sravanthi brithday song","tags":[],"created":"2026-09-01T20:00:51.644"}
+{"id":"916424ff-8ed3-4f21-bfca-d6752a79e9b1","title":"sravanthi brithday song","tags":["note"],"created":"2026-09-01T20:00:51.644"}
 ---
 I never thought that girl who lives on my own town 
 chorus 
