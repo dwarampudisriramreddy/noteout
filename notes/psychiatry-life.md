@@ -1,5 +1,5 @@
 ---
-{"id":"1bfa0482-79c6-4dc3-8d47-3a07f23304f3","title":"psychiatry life","tags":[],"created":"2026-09-01T20:00:48.017"}
+{"id":"1bfa0482-79c6-4dc3-8d47-3a07f23304f3","title":"psychiatry life","tags":["note"],"created":"2026-09-01T20:00:48.017"}
 ---
 - **ISAA → Autism** — likely referring to the ISAA (Indian Scale for Assessment of Autism), used to assess autism
 - https://thenationaltrust.in/upload/uploadfiles/files/ISAA%20TEST%20MANNUAL(2).pdf
